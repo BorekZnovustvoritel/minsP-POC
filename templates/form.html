@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="E-shop">
+    <title>E-shop</title>
+    <!-- PatternFly 5.4.0 CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/@patternfly/patternfly@5.4.0/patternfly.min.css" />
+</head>
+<body>
+<div class="pf-v5-c-page">
+    <!-- Header Section -->
+    <header class="pf-v5-c-masthead pf-v5-l-flex">
+        <div class="pf-v5-l-flex pf-m-align-items-center pf-m-justify-content-space-between pf-u-px-lg">
+            <h1 class="pf-v5-c-title pf-m-2xl">COALa s.r.o.</h1>
+        </div>
+        <div class="pf-v5-c-icon pf-v5-c-icon__content pf-v5-l-flex pf-m-align-right">
+            <a href="/{{ lang }}/kart" title="{{ translation.go_to_kart }}"><img src="/kart.ico" height="10000"></a>
+        </div>
+    </header>
+    <div class="pf-v5-c-page__sidebar">
+        <div class="pf-v5-c-page__sidebar-body">
+            <nav class="pf-v5-c-nav" aria-label="Global">
+                <ul class="pf-v5-c-nav__list" role="list">
+                    <li class="pf-v5-c-nav__item"><a class="pf-v5-c-nav__link" href="/{{ lang }}/">{{ translation.home }}</a></li>
+                    <li class="pf-v5-c-nav__item"><a class="pf-v5-c-nav__link" href="/{{ lang }}/legal">{{ translation.legal }}</a></li>
+                    <li class="pf-v5-c-nav__item"><a class="pf-v5-c-nav__link" href="/{{ lang }}/payment">{{ translation.shipping }}</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <!-- Main Product Section -->
+    <main class="pf-v5-c-content pf-v5-c-page__main-section">
+        <div class="pf-v5-c-form__group>">
+            <form action="/order/submit" method="post">
+                <label class="pf-v5-c-form__group-label" for="first_name">{{ translation.first_name }}</label><br>
+                <input class="pf-v5-c-form__group-control" type="text" id="first_name" name="first_name"><br>
+
+                <label class="pf-v5-c-form__group-label" for="last_name">{{ translation.last_name }}</label><br>
+                <input class="pf-v5-c-form__group-control" type="text" id="last_name" name="last_name"><br>
+
+                <label class="pf-v5-c-form__group-label" for="email">E-mail:</label><br>
+                <input class="pf-v5-c-form__group-control" type="text" id="email" name="email"><br>
+
+                <label class="pf-v5-c-form__group-label" for="phone">{{ translation.phone_num }}</label><br>
+                <input class="pf-v5-c-form__group-control" type="text" id="phone" name="phone"><br>
+
+                <label class="pf-v5-c-form__group-label" for="country">{{ translation.country }}</label><br>
+                <input class="pf-v5-c-form__group-control" type="text" id="country" name="country"><br>
+
+                <label class="pf-v5-c-form__group-label" for="postal_code">{{ translation.postal_code }}</label><br>
+                <input class="pf-v5-c-form__group-control" type="text" id="postal_code" name="postal_code"><br>
+
+                <label class="pf-v5-c-form__group-label" for="city">{{ translation.city }}</label><br>
+                <input class="pf-v5-c-form__group-control" type="text" id="city" name="city"><br>
+
+                <label class="pf-v5-c-form__group-label" for="address_line_1">{{ translation.address_line_1 }}</label><br>
+                <input class="pf-v5-c-form__group-control" type="text" id="address_line_1" name="address_line_1"><br>
+
+                <label class="pf-v5-c-form__group-label" for="address_line_2">{{ translation.address_line_2 }}</label><br>
+                <input class="pf-v5-c-form__group-control" type="text" id="address_line_2" name="address_line_2"><br>
+
+                <button class="pf-v5-c-button pf-m-primary" type="submit">{{ translation.submit }}</button>
+            </form>
+        </div>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="pf-m-sticky-bottom pf-v5-c-panel pf-v5-c-panel__main">
+        <p>{{ translation.contact }}</p>
+        <p>{{ translation.phone }}: +420123456789</p>
+    </footer>
+</div>
+</body>
+</html>

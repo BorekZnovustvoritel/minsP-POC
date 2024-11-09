@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="E-shop">
+    <title>E-shop</title>
+    <!-- PatternFly 5.4.0 CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/@patternfly/patternfly@5.4.0/patternfly.min.css" />
+</head>
+<body>
+<div class="pf-v5-c-page">
+    <!-- Header Section -->
+    <header class="pf-v5-c-masthead pf-v5-l-flex">
+        <div class="pf-v5-l-flex pf-m-align-items-center pf-m-justify-content-space-between pf-u-px-lg">
+            <h1 class="pf-v5-c-title pf-m-2xl">COALa s.r.o.</h1>
+        </div>
+        <div class="pf-v5-c-icon pf-v5-c-icon__content pf-v5-l-flex pf-m-align-right">
+            <a href="/{{ lang }}/kart" title="{{ translation.go_to_kart }}"><img src="/kart.ico" height="10000"></a>
+        </div>
+    </header>
+    <div class="pf-v5-c-page__sidebar">
+        <div class="pf-v5-c-page__sidebar-body">
+            <nav class="pf-v5-c-nav" aria-label="Global">
+                <ul class="pf-v5-c-nav__list" role="list">
+                    <li class="pf-v5-c-nav__item"><a class="pf-v5-c-nav__link" href="/{{ lang }}/">{{ translation.home }}</a></li>
+                    <li class="pf-v5-c-nav__item"><a class="pf-v5-c-nav__link" href="/{{ lang }}/legal">{{ translation.legal }}</a></li>
+                    <li class="pf-v5-c-nav__item"><a class="pf-v5-c-nav__link" href="/{{ lang }}/payment">{{ translation.shipping }}</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <!-- Main Product Section -->
+    <main class="pf-v5-c-content pf-v5-c-page__main-section">
+        <h1>{{ translation.payment_heading }}</h1>
+        <p>{{ translation.payment_text }}</p>
+        <h1>{{ translation.shipping_heading }}</h1>
+        <p>{{ translation.shipping_text }}</p>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="pf-m-sticky-bottom pf-v5-c-panel pf-v5-c-panel__main">
+        <p>{{ translation.contact }}</p>
+        <p>{{ translation.phone }}: +420123456789</p>
+    </footer>
+</div>
+</body>
+</html>

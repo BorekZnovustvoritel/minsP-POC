@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "about"
+msgstr "Our coal warms all hearts."
+
+msgid "add_to_cart"
+msgstr "Add to kart"
+
+msgid "added_to_kart"
+msgstr "Item Added to Kart."
+
+msgid "address_line_1"
+msgstr "Address (line 1):"
+
+msgid "address_line_2"
+msgstr "Address (line 2):"
+
+msgid "city"
+msgstr "City:"
+
+msgid "contact"
+msgstr "Contact"
+
+msgid "country"
+msgstr "Country:"
+
+msgid "first_name"
+msgstr "First Name:"
+
+msgid "go_to_details"
+msgstr "Go to Order Summary"
+
+msgid "go_to_kart"
+msgstr "Go to Kart"
+
+msgid "home"
+msgstr "Home"
+
+msgid "kart"
+msgstr "Kart"
+
+msgid "last_name"
+msgstr "Last Name"
+
+msgid "legal"
+msgstr "Legal"
+
+msgid "legal_heading"
+msgstr "Legal Information"
+
+msgid "legal_text"
+msgstr "FLAG_{SECRET}"
+
+msgid "offer"
+msgstr "Current Offer"
+
+msgid "payment_heading"
+msgstr "Payment Options"
+
+msgid "payment_text"
+msgstr "Payment is possibla via a payment gate or COD. You can use CZK or EUR."
+
+msgid "phone"
+msgstr "Phone"
+
+msgid "phone_num"
+msgstr "Phone Number"
+
+msgid "postal_code"
+msgstr "Postal Code"
+
+msgid "remove_from_cart"
+msgstr "Remove from Kart"
+
+msgid "shipping"
+msgstr "Shipping"
+
+msgid "shipping_heading"
+msgstr "Shipping Information"
+
+msgid "shipping_text"
+msgstr "We ship via Czech Post or DPD courier."
+
+msgid "submit"
+msgstr "Submit"
+
+msgid "€{price:.2f}"
+msgstr "€{price:.2f}"

@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "about"
+msgstr "Naše uhlí hřeje u srdce."
+
+msgid "add_to_cart"
+msgstr "Přidej do košíku"
+
+msgid "added_to_kart"
+msgstr "Přidáno do košíku."
+
+msgid "address_line_1"
+msgstr "Adresa (1. řádek):"
+
+msgid "address_line_2"
+msgstr "Adresa (2. řádek):"
+
+msgid "city"
+msgstr "Obec"
+
+msgid "contact"
+msgstr "Kontakt"
+
+msgid "country"
+msgstr "Stát"
+
+msgid "first_name"
+msgstr "Křestní jméno"
+
+msgid "go_to_details"
+msgstr "Přejít k vyplnění kontaktních údajů"
+
+msgid "go_to_kart"
+msgstr "Přejít do košíku"
+
+msgid "home"
+msgstr "Domů"
+
+msgid "kart"
+msgstr "Košík"
+
+msgid "last_name"
+msgstr "Příjmení"
+
+msgid "legal"
+msgstr "Obchodní podmínky"
+
+msgid "legal_heading"
+msgstr "Obchodní podmínky"
+
+msgid "legal_text"
+msgstr "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis viverra diam non justo. Phasellus et lorem id felis nonummy placerat. Sed convallis magna eu sem. In enim a arcu imperdiet malesuada. In convallis. Curabitur vitae diam non enim vestibulum interdum. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Pellentesque ipsum. Nam sed tellus id magna elementum tincidunt. Nulla turpis magna, cursus sit amet, suscipit a, interdum id, felis. Duis pulvinar. Vestibulum erat nulla, ullamcorper nec, rutrum non, nonummy ac, erat.\n"
+"Duis risus. Praesent dapibus. Sed vel lectus. Donec odio tempus molestie, porttitor ut, iaculis quis, sem. Cras pede libero, dapibus nec, pretium sit amet, tempor quis. Etiam commodo dui eget wisi. Suspendisse sagittis ultrices augue. Mauris dictum facilisis augue. Maecenas lorem. Vivamus ac leo pretium faucibus. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Vivamus luctus egestas leo. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Etiam commodo dui eget wisi. Integer tempor. Mauris dolor felis, sagittis at, luctus sed, aliquam non, tellus. Morbi leo mi, nonummy eget tristique non, rhoncus non leo. Proin in tellus sit amet nibh dignissim sagittis. Aenean vel massa quis mauris vehicula lacinia.\n"
+"\n"
+"Nullam sit amet magna in magna gravida vehicula. Nunc tincidunt ante vitae massa. Maecenas aliquet accumsan leo. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sapien. Maecenas lorem. Pellentesque pretium lectus id turpis. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Etiam commodo dui eget wisi. Et harum quidem rerum facilis est et expedita distinctio. Aliquam in lorem sit amet leo accumsan lacinia. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Donec ipsum massa, ullamcorper in, auctor et, scelerisque sed, est. Donec quis nibh at felis congue commodo. Nam quis nulla. Fusce tellus. Etiam dui sem, fermentum vitae, sagittis id, malesuada in, quam. Maecenas libero.\n"
+"\n"
+"Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Sed ac dolor sit amet purus malesuada congue. In rutrum. Maecenas aliquet accumsan leo. Phasellus et lorem id felis nonummy placerat. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Mauris dolor felis, sagittis at, luctus sed, aliquam non, tellus. Aenean placerat. Cras pede libero, dapibus nec, pretium sit amet, tempor quis. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Integer imperdiet lectus quis justo. Aenean fermentum risus id tortor. Proin mattis lacinia justo. Fusce tellus. Donec vitae arcu.\n"
+"\n"
+"Nullam feugiat, turpis at pulvinar vulputate, erat libero tristique tellus, nec bibendum odio risus sit amet ante. Fusce aliquam vestibulum ipsum. Quisque porta. Sed ac dolor sit amet purus malesuada congue. Aenean placerat. Suspendisse nisl. Nullam faucibus mi quis velit. Etiam posuere lacus quis dolor. Pellentesque sapien. Mauris tincidunt sem sed arcu. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Mauris tincidunt sem sed arcu. Nunc tincidunt ante vitae massa. Aliquam erat volutpat. Nullam rhoncus aliquam metus. Fusce wisi. Etiam dictum tincidunt diam. Praesent vitae arcu tempor neque lacinia pretium. Nunc tincidunt ante vitae massa. Quisque tincidunt scelerisque libero."
+
+msgid "offer"
+msgstr "Aktuální nabídka"
+
+msgid "payment_heading"
+msgstr "Podmínky platby"
+
+msgid "payment_text"
+msgstr "Je možná platba přes platební bránu nebo na dobírku."
+
+msgid "phone"
+msgstr "Telefon"
+
+msgid "phone_num"
+msgstr "Telefonní číslo"
+
+msgid "postal_code"
+msgstr "PSČ"
+
+msgid "remove_from_cart"
+msgstr "Odebrat z košíku"
+
+msgid "shipping"
+msgstr "Doprava"
+
+msgid "shipping_heading"
+msgstr "Doprava"
+
+msgid "shipping_text"
+msgstr "Zasíláme zásilky přes Českou Poštu či DPD."
+
+msgid "submit"
+msgstr "Odeslat"
+
+msgid "€{price:.2f}"
+msgstr "{price:.2f} Kč"
